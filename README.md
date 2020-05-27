@@ -10,6 +10,6 @@
 
 ![](https://media.giphy.com/media/cLSeKBOdpAn13SMD89/giphy.gif)
 
-## Preview of the App (Part 2)
+## Preview of the App (Part 2)(on pressing the map button which saw in the above video at right corner)
 
 ![](https://media.giphy.com/media/iF6T7ZGpZbg46ZEfJ0/giphy.gif)
