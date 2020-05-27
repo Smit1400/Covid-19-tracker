@@ -1,16 +1,15 @@
-# covid_19_tracker
 
-A new Flutter project.
 
-## Getting Started
+# Covid Tracker is a flutter project made for keeping ourself updated about the coronovirus
 
-This project is a starting point for a Flutter application.
+### When Your first time launch the app - 
+<img src="images/part2.jpg" alt="" width="250" height="500">
+<img src="images/part1.jpg" alt="" width="250" height="500">
 
-A few resources to get you started if this is your first Flutter project:
+## Preview of the App (Part 1)
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+![](https://media.giphy.com/media/cLSeKBOdpAn13SMD89/giphy.gif)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Preview of the App (Part 2)
+
+![](https://media.giphy.com/media/iF6T7ZGpZbg46ZEfJ0/giphy.gif)
