@@ -2,7 +2,7 @@
 
 # Covid Tracker is a flutter project made for keeping ourself updated about the coronovirus
 
-### When Your first time launch the app - 
+### When You first time launch the app - 
 <img src="images/part2.jpg" alt="" width="250" height="500">
 <img src="images/part1.jpg" alt="" width="250" height="500">
 
